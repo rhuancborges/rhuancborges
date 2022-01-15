@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhuan</h1>
-<h3 align="center">A passionate young student of programming, for Data Science skills (or, maybe, game developer) from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate young student of programming, for Data Science skills (or, maybe, game developer); from Brazil 🇧🇷</h3>
 
 - 🌱 I’m currently learning **Python**
 
