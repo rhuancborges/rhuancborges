@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rhucambor@gmail.com**
 
-- ⚡ Fun fact **I am am multipotential person (it's not all about coding)**
+- ⚡ Fun fact **I am a multipotential person (it's not all about coding 😉)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
