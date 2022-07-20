@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhuan</h1>
-<h3 align="center">A passionate young student of programming, for Data Science skills (or, maybe, game developer); from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate young student of Computer Science. Interested in a career based in business management and software development. Lover of topics such as data science, mathematical and physical computing, data science, machine learning and artificial intelligence, among others. From Brazil 🇧🇷</h3>
 
-- 🌱 I’m currently learning **MySQL and SQLAlchemy**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **rhucambor@gmail.com**
 
