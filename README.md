@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhuan</h1>
-<h3 align="center">A passionate young student of Computer Science. Interested in a career based in business management and software development, but also (and maybe, most importante) a carrear in Astronomy and Astrophysics (well, I love Space). Lover of topics such as data science, mathematical and physical computing, machine learning and artificial intelligence, among others. From Brazil 🇧🇷</h3>
+<h3 align="center">A passionate young student of Computer Science. Interested in a career based in business management and software development, but also (and maybe, most important) a career in Astronomy and Astrophysics (well, I love Space). Lover of topics such as data science, mathematical and physical computing, machine learning and artificial intelligence, among others. From Brazil 🇧🇷</h3>
 
 - 🌱 I’m currently learning **Java**
 
