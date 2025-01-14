@@ -23,11 +23,8 @@ With a strong curiosity for space and a love for Astronomy and Astrophysics, I a
    <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="37" height="37"/> </a>  
    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="37" height="37"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="37" height="37"/> </a> 
-</p>
-
-<p align="left"> 
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> 
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
@@ -44,7 +41,8 @@ With a strong curiosity for space and a love for Astronomy and Astrophysics, I a
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/> </a> 
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="37" height="37"/> </a> 
    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="37" height="37"/> </a> 
-   <a href="https://www.gurobi.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15114496?s=200&v=4" alt="gurobi" width="37" height="37"/> </a> 
+   <a href="https://www.gurobi.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15114496?s=200&v=4" alt="gurobi" width="37" height="37"/> </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="37" height="37"/> </a>
 </p>
   
  
