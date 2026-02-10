@@ -1,3 +1,5 @@
+[![Header](https://github.com/rhuancborges/rhuancborges/header.png)]
+
 ### Computer scientist passionate about mathematics, operational research, optimization, and everything related to the exact sciences. An explorer of new technologies and enchanted by the art of learning, I have a thirst to impact the world with my creations.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhuan.campborges) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhuan-c-borges) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhuancborges) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rhuancampborges) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rhucambor@gmail.com) 
 
